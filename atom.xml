@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://shcolin.github.io/"/>
+  <updated>2021-07-13T13:25:50.096Z</updated>
+  <id>http://shcolin.github.io/</id>
+  
+  <author>
+    <name>shcolin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test_my_site</title>
+    <link href="http://shcolin.github.io/test-my-site/"/>
+    <id>http://shcolin.github.io/test-my-site/</id>
+    <published>2021-07-13T13:25:50.000Z</published>
+    <updated>2021-07-13T13:25:50.096Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://shcolin.github.io/hello-world/"/>
+    <id>http://shcolin.github.io/hello-world/</id>
+    <published>2021-07-13T13:17:38.663Z</published>
+    <updated>2021-07-13T13:17:38.663Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

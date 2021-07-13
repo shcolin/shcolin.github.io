@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://shcolin.github.io/test-my-site/</loc>
+    
+    <lastmod>2021-07-13T13:25:50.096Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shcolin.github.io/hello-world/</loc>
+    
+    <lastmod>2021-07-13T13:17:38.663Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shcolin.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-03-26T10:02:25.556Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shcolin.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-03-26T10:02:01.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shcolin.github.io/about/index.html</loc>
+    
+    <lastmod>2021-03-26T10:02:00.428Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://shcolin.github.io/archives/index.html</loc>
+    
+    <lastmod>2021-03-26T10:01:41.995Z</lastmod>
+    
+  </url>
+  
+</urlset>
