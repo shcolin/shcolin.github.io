@@ -1,26 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test_my_site</title>
-    <url>/test-my-site/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>《只狼：影逝二度》原型浅考：国之篇</title>
+    <url>/%E3%80%8A%E5%8F%AA%E7%8B%BC%EF%BC%9A%E5%BD%B1%E9%80%9D%E4%BA%8C%E5%BA%A6%E3%80%8B%E5%8E%9F%E5%9E%8B%E6%B5%85%E8%80%83%EF%BC%9A%E5%9B%BD%E4%B9%8B%E7%AF%87/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>非本人原创，用于个人收藏，转载：<a href="https://www.gcores.com/articles/110129" target="_blank" rel="noopener">https://www.gcores.com/articles/110129</a></p>
+<p>作为《只狼》原型浅考的第二部分，国之篇会出现一些与神之篇交叉重叠的内容，推荐没看过神之篇的朋友可以先去了解一下其中提及的原型和典故。</p>
+<p><a href="https://www.gcores.com/articles/109450" target="_blank" rel="noopener">《只狼：影逝二度》原型浅考 神之篇</a></p>
+<p>本文默认读者了解《只狼》的基础设定和大体剧情，故不会对游戏内信息进行大段落的复述。如果没有实际玩过游戏，或者玩过游戏但不太清楚剧情的朋友，可考虑阅读观看一些梳理剧情的文章和视频，网上有不少狼学家认真创作的优秀作品。</p>
+<p>考据的基本原则是<strong>不采纳完全被确认是伪论的观点</strong>，如果说到历史疑论，文中会指出并列举一些有代表性的观点，由读者自行判断是否具有参考价值。个人认为这些不确定的疑论也是历史考据的魅力之一。</p>
+<h1 id="国之篇-从苇名国到日本国"><a href="#国之篇-从苇名国到日本国" class="headerlink" title="国之篇 从苇名国到日本国"></a>国之篇 从苇名国到日本国</h1><p><a href="https://image.gcores.com/fb1a5195-5e06-4779-910a-499bde37bcd2.png?x-oss-process=image/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/fb1a5195-5e06-4779-910a-499bde37bcd2.png" alt="官网故事背景介绍"></a></p>
+<p>官网故事背景介绍</p>
+<p>战国时代，剑圣苇名一心仅靠一代人便夺回国家，成为北方霸主。如今苇名到了危急存亡之时，苇名之将被告知拯救苇名的关键是御子。</p>
+<p>战国时代、北国之雄、苇名。</p>
+<p>结合这三个条件很容易想到战国时代的<strong>会津芦名氏</strong>，这个大名曾占据日本东北陆奥的会津地区，符合游戏中的地理位置，芦名和苇名在日语中同音，都读作あしな。</p>
+<p><a href="https://image.gcores.com/d1777115-6ce7-4efe-bab1-c58ec0e42538.png?x-oss-process=image/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/d1777115-6ce7-4efe-bab1-c58ec0e42538.png" alt="img"></a></p>
+<p>《只狼》中出现的人名，很多都来自于会津芦名氏的关系者，比如苇名氏的庶家平田氏，对应芦名四天的平田氏。但是游戏中的苇名氏与会津芦名氏的对应关系止步于名字对应的程度，接着考据下去毫无收获。</p>
+<p>那这个游戏的人物和故事完全没有借鉴具体的历史原型吗？宫崎英高当被问到这个问题时，回答得很巧妙。以下内容来自于<a href="https://www.gcores.com/articles/103447" target="_blank" rel="noopener">方块游戏《只狼 影逝二度》亚太地区发布会宫崎英高机核专访</a>，精彩的提问和回答提供了很多有价值的信息，本文将会多次引用其中的内容。</p>
+<blockquote>
+<p>《只狼》选择了日本战国时代作为背景，但游戏中的“苇名之国”并非是真实历史中存在的地点。游戏故事是以某些历史为基础改编的，还是完全是架空的呢？是否会有被大众所熟知的战国人物登场的可能？ 宫崎英高：确实，虽然是战国时代，但是“苇名之国”在日本的历史是不存在的，是一个架空国家。里面出现的人物、地点等等，也都是虚构的，因此也不会有大家熟知的战国时代的武将登场。</p>
+</blockquote>
+<p>宫崎英高明确表示不会出现熟知的战国武将，但是游戏故事是否以某段历史为基础改编，他的回答很含糊。顺着思维惯性，玩家可能会以为《只狼》的故事改编于日本战国的某个历史片段，就像市面上大部分战国题材的游戏一样。</p>
+<p>其实还存在另外一种答案，《只狼》确实借鉴了现实历史，但这段历史并不是发生于战国时代。苇名国灭亡的故事原型其实来自于平安时代，平安时代一系列的历史事件导致幕府的诞生，而大名割据的战国乱世则是幕府时代中的一个“小插曲”。宫崎英高这回玩了一个把戏，<strong>《只狼》实际上讲的不是战国的故事，而是与战国有关的故事。</strong></p>
+<p>平安时代开始于公元794年，第50代天皇桓武天皇迁都平安京，结束于公元1192年，武家出身的源赖朝一统天下，被封为征夷大将军并建立镰仓幕府。整个平安时代的兴起和衰落，都被塞进这个以战国时代为背景的微观架空世界中。</p>
+<p>为什么要用这种手法来构建《只狼》的世界观，是本文最后要探讨的核心问题，当所有零散的线索串联在一起，答案将浮出水面。《只狼》不只是一款好玩的游戏，还隐藏了许多难以想象的深刻思想，并且呈现了FromSoftware逐渐成熟的重构美学。</p>
+<p>这里还要多说一句，文中的考据和分析仅出于个人对游戏的理解，没有办法核实制作者真正的想法。无论是脑洞，还是过度解读，都诞生于挖掘游戏丰富内涵的过程之中，希望可以通过本文让更多玩家体会到《只狼》不同层面的魅力。</p>
+<p>让我们从游戏中一个微小的细节开始对苇名之地的考据。</p>
+<h1 id="日本国名之谜"><a href="#日本国名之谜" class="headerlink" title="日本国名之谜"></a>日本国名之谜</h1><p>如果你玩的不是日文版本，很可能会错过这个细节，游戏中至少有五处提示这个虚构世界的名称：</p>
+<p>一、开场动画中的第一段话，说故事发生在战国末期的日本（ひのもと）。</p>
+<p><a href="https://image.gcores.com/f63f92f4-5c52-4676-9bcd-c0c9e39e9cb8.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/f63f92f4-5c52-4676-9bcd-c0c9e39e9cb8.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/857f824b-b6e9-4674-a6de-edef59e2f32d.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/857f824b-b6e9-4674-a6de-edef59e2f32d.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/6ed97211-12e7-4ba2-ba8c-b4eb2adecac0.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/6ed97211-12e7-4ba2-ba8c-b4eb2adecac0.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/f63f92f4-5c52-4676-9bcd-c0c9e39e9cb8.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210713235949.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/857f824b-b6e9-4674-a6de-edef59e2f32d.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210714000012.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/6ed97211-12e7-4ba2-ba8c-b4eb2adecac0.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210714000019.png" alt="img"></a></p>
+<p><a href="https://image.gcores.com/f63f92f4-5c52-4676-9bcd-c0c9e39e9cb8.png?x-oss-process=image/quality,q_90" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210714000023.png" alt="img"></a></p>
+<p>1 / 3</p>
+<p>二、罗伯特的爆竹，在物品描述中提到罗伯特和父亲来到了日之本。</p>
+<p><a href="https://image.gcores.com/4a4496ec-5c37-4cf1-9ddd-c246f002ab27.png?x-oss-process=image/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210714000028.png" alt="img"></a></p>
+<p>三、交给苇名一心苇名酒的对话，也提到被战乱的日本（ひのもと）。</p>
+<p><a href="https://image.gcores.com/bdf2ead8-c278-4882-8c67-e5994d1002bb.png?x-oss-process=image/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10" target="_blank" rel="noopener"><img src="https://gitee.com/shcolin/pic-bed/raw/master/20210714000033.png" alt="img"></a></p>
+<p>四、在幻廊中与变若御子的对话，提到神龙从故乡来到日本（ひのもと）。</p>
+<blockquote>
+<p>隻狼：竜胤を、返す？ 変若：そうです 竜胤は…　故郷を放たれ、この<strong>日本（ひのもと）</strong>に流れ着いたもの あるべきではない場所に、あるべきではないものがある ゆえに、我らのような歪んだ命を生み出そうとする者が 絶えぬのでしょう 竜胤や、竜胤に連なる我らは…　きっと、帰るべきなのです 西へ…。神なる竜の故郷へと… ただ、如何にしてたどり着くか… それが、まだ分かりません</p>
+</blockquote>
+<p>五、枭的战斗残渣，物品描述中提到枭的目的是扬名于日之本。</p>
+<blockquote>
+<p>戦いの残滓・大忍び　梟 心中に息づく、類稀な強者との戦いの記憶 今はその残滓のみが残り、 記憶は確かに狼の糧となった 大忍びの梟は、 身に余る野心を抱き、竜胤の力を欲した さあ、己の真の名を、<strong>日の本</strong>に轟かせるのだ 全てはそのための謀であった</p>
+</blockquote>
+<p>游戏中凡是出现日本国名的对话语音，字幕写着“日本”，读音是“ひのもと”；出现日本国名的物品描述，文本写着“日の本”。可以推测对话字幕和物品文本不是由同一批人负责，最后没有统一校对。</p>
+<p><strong>ひのもと（hinomoto）</strong>，直接写成汉字即“<strong>日の本</strong>”，比较官方的解释是平安时期对日本一词的古典训读，不同于现在把“日本”读作“霓虹”或者“泥碰”。ひのもと的读音应该是出现于“日本”这两个汉字从中国传入日本之前。</p>
+<p>日之本作为日本的异称，在一些影视游戏作品中代表了架空世界的日本，比如《甲铁城的卡巴内瑞》和《战国Basara》。但是作为考据文章，不会满足于这种程度的理由，我们默认宫崎英高作品中出现的典故都不是敷衍随意添加的，接着挖一挖“日之本”这个词的来历。</p>
+<p>这得先从“日本”这个国名的来历说起。</p>
+<p>日本国名的来历至今都没有统一定论，主要原因是<strong>日本过去很长时间都没有文字</strong>。汉字从中国传入日本后，日本人才有能力用文字记载历史，文盲时代发生过什么事情，只能通过日本人流传的口述故事或者其他国家的史料中寻找线索了。</p>
+<p>西晋陈寿在《三国志 魏书 倭人传》中记载，中国东面海岛上一个叫“<strong>邪马台</strong>”的国家，统一周围的小国，邪马台女王叫“<strong>卑弥呼</strong>”，被魏帝封为“<strong>亲魏倭王</strong>”。</p>
+<p>这是我国对日本比较早的记载，《后汉书》也提了几句倭奴国，不确定和邪马台是不是同一个国家，日本人到现在也没弄清楚邪马台国和女王卑弥呼具体是日本历史中的哪群人。总之我们中国最初称呼日本为<strong>倭国</strong>或<strong>倭奴国</strong>。</p>
+<p>后来日本一个强大的氏族占据了现在的关西奈良一带，自称<strong>やまと（yamato）</strong>。随着势力扩张，やまと变成整个国家的名字。汉字传入日本后，日本人选择“<strong>倭</strong>”字来表示やまと，之后奈良时代的元明天皇给やまと换了两个意义更好的汉字“<strong>大和</strong>”，大和主要是国内使用，在外面还是被别的国家叫作倭国。</p>
+<p>《晋书》、《宋书》、《隋书》等中国史籍上陆陆续续记载着倭国来天朝进贡的事件，直到《旧唐书》和《新唐书》发生了一件有意思的事情。</p>
+<blockquote>
+<p>倭国者，古倭奴国也。 日本国者，倭国之别种也。以其国在日边，故以日本为名。或曰：倭国自恶其名不雅，改为日本。或云：日本旧小国，并倭国之地。 ——《旧唐书 列传第一百四十九 东夷》</p>
+</blockquote>
+<blockquote>
+<p>日本，古倭奴也。 后稍习夏音，恶倭名，更号日本。使者自言，国近日所出，以为名。或云日本乃小国，为倭所并，故冒其号。 ——《新唐书 列传第一百四十五 东夷》</p>
+</blockquote>
+<p>倭国向大唐报告要更改国名，理由是觉得倭字不雅，国家靠近日出所以改名为日本。两个版本的唐史却出现了一些矛盾：《旧唐书》中说<strong>日本是倭国分出去的一个小国，然后吞并了倭国</strong>；《新唐书》中说<strong>倭国吞并了一个叫日本的小国，冒用其名</strong>。</p>
+<p>据推测，倭改名日本发生于7世纪初，早于《古事记》和《日本书纪》这两部日本最早的史籍，所以日本方面没有明确的史料记录来解释国名的来历。中国方面则可能是进贡使者语言交流时出现偏差；或是史籍编撰时弄错了，著史书的往往都是后朝人，出现错误不是个例。</p>
+<p>日本的国名到底的是怎么来的，出现了许多观点：有人坚持日本这个名字由大和朝廷原创，有人认为是武则天赐予倭国日本之名，还有人怀疑大和朝廷确实盗用了他国的国名。日本东北古代史研究学者<strong>高桥富雄</strong>是最后一种观点的拥护者，他认为“日本”这个名字来自于日本东北地区一个叫<strong>日高见国</strong>的古代国家，大和政权曾击败此国，盗用其名。</p>
+<p>神之篇中曾提到过丈的原型是日本武尊。《日本书纪》的景行天皇章节中，景行天皇让日本武尊征讨不服从统治的部落，这段记载中出现了日高见国的名字：</p>
+<blockquote>
+<p>廿七年春二月辛丑朔壬子、武內宿禰、自東國還之奏言「東夷之中、有<strong>日高見國</strong>、其國人男女、並椎結文身、爲人勇悍、是總曰<strong>蝦夷</strong>。亦土地沃壤而曠之、擊可取也。」秋八月、熊襲亦反之、侵邊境不止。</p>
+</blockquote>
+<p>日本东北的部落被大和朝廷称为<strong>虾夷</strong>，虾夷建立了日高见国，人人纹身，民风彪悍，土地肥沃。紧接着下面一段是《日本书纪》中日本武尊讨伐虾夷的具体描述。</p>
+<blockquote>
+<p>爰日本武尊、則從上總轉、入<strong>陸奧國</strong>。時、大鏡懸於王船、從海路������於葦浦、横渡玉浦、至蝦夷境。<strong>蝦夷賊首嶋津神・國津神</strong>等、屯於竹水門而欲距、然遙視王船、豫怖其威勢而心裏知之不可勝、悉捨弓矢、望拜之曰「仰視君容、秀於人倫、若神之乎。欲知姓名。」王對之曰「<strong>吾是現人神之子也。</strong>」於是、蝦夷等悉慄、則褰裳披浪、自扶王船而着岸。仍面縛服罪、故免其罪、因以、俘其首帥而令從身也。蝦夷既平、自<strong>日高見國</strong>還之、西南歷常陸、至甲斐國、居于酒折宮。</p>
+</blockquote>
+<p>这段描述信息很多，讲日本武尊来到<strong>陆奥国</strong>，也就是后文将会反复提及的<strong>奥州</strong>，位于现在日本的东北地区。虾夷的首领被视为<strong>国津神</strong>，所以当我们拨开神话的外衣，所谓的国津神和恶神，指代的是不服从统治的人。日本武尊征服虾夷的方法是公开了自己的身份，现人神指的是天皇，现人神之子即皇子，皇子在最早的史书中写作御子。平定虾夷后，日本武尊离开了日高见国。</p>
+<p>总结成一句话：在不知道具体时间的过去，日本武尊（丈）来到陆奥（苇名），自曝天皇之子（御子）的身份，使当地人折服。</p>
+<p>虽然无法确定日本的国名是否源于日高见国，以及该国是否真实存在，但是在日本的东北地区确实有把日本读作ひのもと的旧俗，这个读音比にほん（霓虹）和にっぽん（泥碰）古老得多。</p>
+<p>平安时代末期的歌学书《袖中抄》中记载，坂上田村麻吕在东北征夷途中，用弓箭箭尾在一块石碑上刻下“日本中央”四个字，这块石碑被称为<strong>壶之碑（つぼのいしぶみ）</strong>，此碑一直是未被找到的传说之物。1949年青森县发现了一块刻有“日本中央”的石碑，位置与史料记载有所矛盾，坂上田村麻吕东北征夷最北到过志波城（现在的岩手县），而青森县位于日本本州的最北端，这块碑被认为也有可能出自其他征夷将领之手。</p>
 ]]></content>
   </entry>
 </search>
